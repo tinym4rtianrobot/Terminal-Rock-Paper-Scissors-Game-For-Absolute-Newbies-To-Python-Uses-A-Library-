@@ -46,16 +46,4 @@ if(i == "Scissor" and j == 0):
     print(ans)
     print("You lose ")
 
-if(i == "SANJAYISAGOD" and j == 1):
-    print(ans)
-    print("Found The Easter Egg Eh")
 
-
-if(i == "SANJAYISAGOD" and j == 2):
-    print(ans)
-    print("Found The Easter Egg Eh")
-
-
-if(i == "SANJAYISAGOD" and j == 0):
-    print(ans)
-    print("Found The Easter Egg Eh")
